@@ -21,6 +21,7 @@ group :test do
   gem 'cucumber-rails-training-wheels'
   gem 'simplecov', :require => false
 end
+
 group :production do
   gem 'pg'
   gem 'rails_12factor'
