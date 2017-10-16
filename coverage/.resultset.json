@@ -1,11 +1,11 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/ubuntu/workspace/hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/application_helper.rb": [
+      "/home/ubuntu/workspace/hw-acceptance-unit-test-cycle/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/home/ubuntu/workspace/hw-acceptance-unit-test-cycle/rottenpotatoes/app/helpers/movies_helper.rb": [
+      "/home/ubuntu/workspace/hw-acceptance-unit-test-cycle/app/helpers/movies_helper.rb": [
         1,
         null,
         1,
@@ -13,7 +13,7 @@
         null,
         null
       ],
-      "/home/ubuntu/workspace/hw-acceptance-unit-test-cycle/rottenpotatoes/app/controllers/movies_controller.rb": [
+      "/home/ubuntu/workspace/hw-acceptance-unit-test-cycle/app/controllers/movies_controller.rb": [
         1,
         null,
         1,
@@ -35,14 +35,27 @@
         0,
         null,
         0,
-        0,
-        null,
-        0,
-        0,
         null,
         null,
         0,
         0,
+        0,
+        null,
+        null,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        0,
+        null,
+        null,
+        null,
+        0,
+        null,
+        null,
+        null,
         0,
         0,
         null,
@@ -92,12 +105,12 @@
         null,
         null
       ],
-      "/home/ubuntu/workspace/hw-acceptance-unit-test-cycle/rottenpotatoes/app/controllers/application_controller.rb": [
+      "/home/ubuntu/workspace/hw-acceptance-unit-test-cycle/app/controllers/application_controller.rb": [
         1,
         1,
         null
       ],
-      "/home/ubuntu/workspace/hw-acceptance-unit-test-cycle/rottenpotatoes/app/models/movie.rb": [
+      "/home/ubuntu/workspace/hw-acceptance-unit-test-cycle/app/models/movie.rb": [
         1,
         1,
         0,
@@ -109,7 +122,7 @@
         null
       ]
     },
-    "timestamp": 1508103758
+    "timestamp": 1508163880
   },
   "Cucumber Features": {
     "coverage": {
@@ -234,6 +247,6 @@
         null
       ]
     },
-    "timestamp": 1508160657
+    "timestamp": 1508180606
   }
 }

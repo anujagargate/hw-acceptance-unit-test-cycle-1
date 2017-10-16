@@ -54,10 +54,10 @@ Scenario: create new movie
   And I should see "Frozen"
   
 Scenario: delete movie
-    When I check the following ratings: "PG, R, G, PG-13, NC-17"
-    And I follow "more_about_Aladdin"
-    Then I should be on the details page for "Aladdin"
-    And I press "delete_movie"
-    Then I should be on the RottenPotatoes home page
-    And I should see "Movie 'Aladdin' deleted."
+  When I check the following ratings: "PG, R, G, PG-13, NC-17"
+   And I follow "more_about_Aladdin"
+  Then I should be on the details page for "Aladdin"
+  And I press "delete_movie"
+  Then I should be on the RottenPotatoes home page
+  And I should see "Movie 'Aladdin' deleted."
       
